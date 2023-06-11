@@ -1,2 +1,1 @@
 # flutter_mvvm_provider_rockets_details
-# flutter_mvvm_provider_rockets_details
